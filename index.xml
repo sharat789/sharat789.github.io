@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://sharat789.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://sharat789.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://sharat789.github.io/first/</link>
+      <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
+      
+      <guid>http://sharat789.github.io/first/</guid>
+      <description>Introduction Welcome to my first blog post! In this post, I will share my journey and experiences in cloud computing.
+What is Cloud Computing? Cloud computing is the delivery of computing services over the internet. It allows for on-demand access to resources like storage, processing power, and applications.
+Benefits of Cloud Computing  Scalability: Easily scale resources up or down based on demand. Cost Efficiency: Pay only for what you use, reducing capital expenditure.</description>
+    </item>
+    
+  </channel>
+</rss>
